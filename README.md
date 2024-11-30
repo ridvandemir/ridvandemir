@@ -12,10 +12,9 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Sandbox Implementation and Malware Analysis     | <a href="https://google.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Splunk Deployement for Log Forwarding           | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab</a>, <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab2</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab</a>, <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab2</a>|
+| Splunk Deployement for Log Forwarding           | <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab</a>, <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab2</a>|
 
 ## Tools
 
@@ -47,7 +46,6 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 </div>
 
 ## Projects
-- Sanbox Lab
 - Detection Lab
 - Splunk Enterprise Lab
 
