@@ -6,15 +6,17 @@ I am a Cybersecurity Analyst with a great interest in technology and a dedicatio
 
 ## Objective
 
-My journey in Navy has led me to develop a passion for cybersecurity. And I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or SIEM Engineer.
+My journey in Navy has led me to develop a passion for cybersecurity. And I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or junior SIEM Engineer.
 
 ## Skills
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab</a>, <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab2</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab</a>, <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab2</a>|
-| Splunk Deployement for Log Forwarding           | <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab</a>, <a href="https://github.com/ridvandemir/detection_lab/blob/main/README.md">detection_lab2</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| Splunk Deployement for Log Forwarding           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| IDS Deployement and Configuration               | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| AD/DC Configuration                             | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 
 ## Tools
 
@@ -46,8 +48,9 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 </div>
 
 ## Projects
-- Detection Lab
-- Splunk Enterprise Lab
+- <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>
+- <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>
+- splunk-distribution-lab
 
 <!--
 **ridvandemir/ridvandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
