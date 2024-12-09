@@ -14,7 +14,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 |-------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
-| Splunk Deployement for Log Forwarding           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| Splunk Deployement for Log Forwarding           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">detection-lab2</a>|
 | IDS Deployement and Configuration               | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 | AD/DC Configuration                             | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 
@@ -50,7 +50,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 ## Projects
 - <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>
 - <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>
-- splunk-lab
+- <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">detection-lab2</a>
 - splunk-lab2
 
 <!--
