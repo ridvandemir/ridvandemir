@@ -50,7 +50,8 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 ## Projects
 - <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>
 - <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>
-- splunk-distribution-lab
+- splunk-lab
+- splunk-lab2
 
 <!--
 **ridvandemir/ridvandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
