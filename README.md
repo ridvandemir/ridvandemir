@@ -18,7 +18,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 | Splunk Data Input Configuration                 | <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
 | IDS Deployement and Configuration               | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 | AD/DC Configuration                             | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
-| Splunk Deployement/Configuration with Ansible   | <a ansible-lab</a>|
+| Splunk Deployement/Configuration with Ansible   | ansible-lab</a>|
 
 ## Tools
 
