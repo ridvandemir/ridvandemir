@@ -18,6 +18,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 | Splunk Data Input Configuration                 | <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
 | IDS Deployement and Configuration               | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 | AD/DC Configuration                             | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| Splunk Deployement/Configuration with Ansible   | <a ansible-lab</a>|
 
 ## Tools
 
@@ -38,6 +39,11 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Automation
+<div>
+    <img src="https://img.shields.io/badge/-Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
+<div>
+
 ## Certifications
 
 <div>
@@ -53,6 +59,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 - <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>
 - <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>
 - splunk-lab2
+- ansible-lab
 
 <!--
 **ridvandemir/ridvandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
