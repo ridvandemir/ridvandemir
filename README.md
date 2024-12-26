@@ -52,6 +52,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fundamentals_of_Ansible-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
