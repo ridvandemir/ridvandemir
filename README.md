@@ -17,7 +17,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 | IDS Deployement and Configuration               | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 | Splunk Deployement for Log Forwarding           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
 | Splunk Data Input Implementation                | <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
-| Splunk Deployement/Configuration with Ansible   | ansible-lab</a>|
+| Splunk Deployement/Configuration with Ansible   | <a href="https://github.com/ridvandemir/ansible-lab/blob/main/README.md">ansible-lab</a>|
 
 ## Tools
 
@@ -60,7 +60,7 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 - <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>
 - <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>
 - splunk-lab2
-- ansible-lab
+- <a href="https://github.com/ridvandemir/ansible-lab/blob/main/README.md">ansible-lab</a>
 
 <!--
 **ridvandemir/ridvandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
