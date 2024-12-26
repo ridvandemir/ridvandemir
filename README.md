@@ -23,9 +23,9 @@ My journey in Navy has led me to develop a passion for cybersecurity. And I am n
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-0000FF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-FFA500?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-FFA500?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FFC0CB?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Endpoint
