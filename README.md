@@ -6,7 +6,7 @@ I am a Cybersecurity Analyst with a great interest in technology and a dedicatio
 
 ## Objective
 
-My journey in Navy has led me to develop a passion for cybersecurity. And I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or junior SIEM Engineer.
+My journey in Navy has led me to develop a passion for security. And I am now eager to transition into cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or junior SIEM Engineer.
 
 ## Skills
 
