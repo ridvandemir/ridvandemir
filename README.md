@@ -10,16 +10,16 @@ My journey in Navy has led me to develop a passion for security. And I am now ea
 
 ## Skills
 
-| Skill                                           | Associated Project         |
-|-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
-| IDS Deployement and Configuration               | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
-| Splunk Deployement for Log Forwarding           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
-| Splunk Data Input Implementation                | <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
-| Splunk Deployement/Configuration with Ansible   | <a href="https://github.com/ridvandemir/ansible-lab/blob/main/README.md">ansible-lab</a>|
-| Splunk Distributed Architecture Deployement
-  and Configuration                               | <a href="https://github.com/ridvandemir/splunk-lab2/blob/main/README.md">splunk-lab2</a>|
+| Skill                                                          | Associated Project         |
+|----------------------------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis                           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| Network Traffic Monitoring and Attack Detection                | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| IDS Deployement and Configuration                              | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| Splunk Deployement for Log Forwarding                          | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
+| Splunk Data Input Implementation                               | <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
+| Splunk Deployement and Configuration with Ansible              | <a href="https://github.com/ridvandemir/ansible-lab/blob/main/README.md">ansible-lab</a>|
+| Splunk Distributed Architecture Deployement and Configuration  | <a href="https://github.com/ridvandemir/splunk-lab2/blob/main/README.md">splunk-lab2</a>|
+
 
 ## Tools
 
