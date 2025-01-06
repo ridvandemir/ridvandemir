@@ -6,7 +6,7 @@ I am a Cybersecurity Analyst with a great interest in technology and a dedicatio
 
 ## Objective
 
-My journey in Navy has led me to develop a passion for security. And I am now eager to transition into cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or junior SIEM Engineer.
+My journey in Navy has led me to develop a passion for security. And I am now eager to transition into cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Junior SIEM Engineer/Admin.
 
 ## Skills
 
@@ -14,7 +14,7 @@ My journey in Navy has led me to develop a passion for security. And I am now ea
 |----------------------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis                           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 | Network Traffic Monitoring and Attack Detection                | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
-| IDS Deployement and Configuration                              | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| IDS/IPS Deployement and Configuration                          | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
 | Splunk Deployement for Log Forwarding                          | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
 | Splunk Data Input Implementation                               | <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
 | Splunk Deployement and Configuration with Ansible              | <a href="https://github.com/ridvandemir/ansible-lab/blob/main/README.md">ansible-lab</a>|
