@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/ridvan-demir-591b77136/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.xing.com/profile/Ridvan_Demir18/"><img src="https://img.shields.io/badge/-Xing-006567?&style=for-the-badge&logo=xing&logoColor=white" /></a>
 
-I am a Cybersecurity Analyst with a great interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity Analyst with a great interest in technology and a dedication to solving problems.
 
 ## Objective
 
