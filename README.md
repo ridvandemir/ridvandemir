@@ -12,13 +12,16 @@ My journey in Navy has led me to develop a passion for security. And I am now ea
 
 | Skill                                                          | Associated Project         |
 |----------------------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis                           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
-| Network Traffic Monitoring and Attack Detection                | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| SIEM Implementation and Log Analysis                           | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/mini-soc-lab/blob/main/README.md">mini-soc-lab</a>|
+| Network Traffic Monitoring and Attack Detection                | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/mini-soc-lab/blob/main/README.md">mini-soc-lab</a>|
 | IDS/IPS Deployement and Configuration                          | <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>|
+| ELK Deployment and Ticketing System Integration                | <a href="https://github.com/ridvandemir/mini-soc-lab/blob/main/README.md">mini-soc-lab</a>|
 | Splunk Deployement for Log Forwarding                          | <a href="https://github.com/ridvandemir/detection-lab/blob/main/README.md">detection-lab</a>, <a href="https://github.com/ridvandemir/detection-lab2/blob/main/README.md">detection-lab2</a>, <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
 | Splunk Data Input Implementation                               | <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>|
 | Splunk Deployement and Configuration with Ansible              | <a href="https://github.com/ridvandemir/ansible-lab/blob/main/README.md">ansible-lab</a>|
 | Splunk Distributed Architecture Deployement and Configuration  | <a href="https://github.com/ridvandemir/splunk-lab2/blob/main/README.md">splunk-lab2</a>|
+
+
 
 
 ## Tools
@@ -63,6 +66,7 @@ My journey in Navy has led me to develop a passion for security. And I am now ea
 - <a href="https://github.com/ridvandemir/splunk-lab/blob/main/README.md">splunk-lab</a>
 - <a href="https://github.com/ridvandemir/splunk-lab2/blob/main/README.md">splunk-lab2</a>
 - <a href="https://github.com/ridvandemir/ansible-lab/blob/main/README.md">ansible-lab</a>
+- <a href="https://github.com/ridvandemir/mini-soc-lab/blob/main/README.md">mini-soc-lab</a>
 
 <!--
 **ridvandemir/ridvandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
